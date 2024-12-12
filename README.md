@@ -1,2 +1,3 @@
 # Big-Chill-PvE-Tarkov
-A development and learning platform for testing various networking concepts in a gamified way.
+
+Welcome to the GitHub page for the Big Chill Network Escape from Tarkov AKI server!
